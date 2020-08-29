@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=VP33 Pin=C19-2
+Removed Member From Class: ClassName=GL3520 4 Ports Member=C19
+Added Room: Name=GL3520 4 Ports

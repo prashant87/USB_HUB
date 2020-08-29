@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DP3_RXN Pin=U5-1
+Removed Pin From Net: NetName=DP3_DP Pin=U5-4
+Removed Pin From Net: NetName=DP3_TXN Pin=U5-5
+Removed Pin From Net: NetName=DP3_TXP Pin=U5-6
+Removed Pin From Net: NetName=DP3_DN Pin=U5-7
+Removed Pin From Net: NetName=DP3_RXP Pin=U5-10
+Added Pin To Net: NetName=DP3_DN Pin=U5-1
+Added Pin To Net: NetName=DP3_TXP Pin=U5-4
+Added Pin To Net: NetName=DP3_RXP Pin=U5-5
+Added Pin To Net: NetName=DP3_RXN Pin=U5-6
+Added Pin To Net: NetName=DP3_TXN Pin=U5-7
+Added Pin To Net: NetName=DP3_DP Pin=U5-10

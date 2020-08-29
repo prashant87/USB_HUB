@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=DOWN1 Old Footprint=USB3.0-2 - duplicate New Footprint=USB3.0-1
+Change Component Footprint: Designator=DOWN2 Old Footprint=USB3.0-2 - duplicate New Footprint=USB3.0-1
+Change Component Footprint: Designator=DOWN3 Old Footprint=USB3.0-2 - duplicate New Footprint=USB3.0-1
+Change Component Footprint: Designator=DOWN4 Old Footprint=USB3.0-2 - duplicate New Footprint=USB3.0-1
+Added Class: Name=GL3520 4 Ports
+Added Room: Name=GL3520 4 Ports

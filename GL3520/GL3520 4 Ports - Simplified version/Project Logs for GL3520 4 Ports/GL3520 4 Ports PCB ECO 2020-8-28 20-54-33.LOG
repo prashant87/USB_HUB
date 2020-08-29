@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DP2_DP Pin=U3-1
+Removed Pin From Net: NetName=DP2_TXP Pin=U3-4
+Removed Pin From Net: NetName=DP2_TXN Pin=U3-7
+Removed Pin From Net: NetName=DP2_DN Pin=U3-10
+Added Pin To Net: NetName=DP2_TXP Pin=U3-1
+Added Pin To Net: NetName=DP2_DP Pin=U3-4
+Added Pin To Net: NetName=DP2_DN Pin=U3-7
+Added Pin To Net: NetName=DP2_TXN Pin=U3-10
+Added Room: Name=GL3520 4 Ports

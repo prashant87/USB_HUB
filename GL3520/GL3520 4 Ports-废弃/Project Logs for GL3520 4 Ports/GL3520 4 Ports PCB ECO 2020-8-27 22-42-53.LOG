@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VMAIN1 Pin=U6-55
+Added Pin To Net: NetName=VMAIN Pin=U6-55

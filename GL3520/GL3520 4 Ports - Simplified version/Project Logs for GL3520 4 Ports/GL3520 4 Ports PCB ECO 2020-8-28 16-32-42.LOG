@@ -1,0 +1,57 @@
+Added Component: Designator=DOWN1(USB3.0-1 - duplicate)
+Add component (AddParameter): Name = "PCB Footprint"; Value = "CND-USB3A-A"; VariantName = "[No Variations]"
+Added Component: Designator=DOWN2(USB3.0-1 - duplicate)
+Add component (AddParameter): Name = "PCB Footprint"; Value = "CND-USB3A-A"; VariantName = "[No Variations]"
+Added Component: Designator=DOWN3(USB3.0-1 - duplicate)
+Add component (AddParameter): Name = "PCB Footprint"; Value = "CND-USB3A-A"; VariantName = "[No Variations]"
+Added Component: Designator=DOWN4(USB3.0-1 - duplicate)
+Add component (AddParameter): Name = "PCB Footprint"; Value = "CND-USB3A-A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDP1 Pin=DOWN1-1
+Added Pin To Net: NetName=DP1_DN Pin=DOWN1-2
+Added Pin To Net: NetName=DP1_DP Pin=DOWN1-3
+Added Pin To Net: NetName=GND Pin=DOWN1-4
+Added Pin To Net: NetName=DP1_RXN Pin=DOWN1-5
+Added Pin To Net: NetName=DP1_RXP Pin=DOWN1-6
+Added Pin To Net: NetName=GND Pin=DOWN1-7
+Added Pin To Net: NetName=NetC38_2 Pin=DOWN1-8
+Added Pin To Net: NetName=NetC39_2 Pin=DOWN1-9
+Added Pin To Net: NetName=GND Pin=DOWN1-G1
+Added Pin To Net: NetName=GND Pin=DOWN1-G2
+Added Pin To Net: NetName=VDP2 Pin=DOWN2-1
+Added Pin To Net: NetName=DP2_DN Pin=DOWN2-2
+Added Pin To Net: NetName=DP2_DP Pin=DOWN2-3
+Added Pin To Net: NetName=GND Pin=DOWN2-4
+Added Pin To Net: NetName=DP2_RXN Pin=DOWN2-5
+Added Pin To Net: NetName=DP2_RXP Pin=DOWN2-6
+Added Pin To Net: NetName=GND Pin=DOWN2-7
+Added Pin To Net: NetName=NetC40_2 Pin=DOWN2-8
+Added Pin To Net: NetName=NetC41_2 Pin=DOWN2-9
+Added Pin To Net: NetName=GND Pin=DOWN2-G1
+Added Pin To Net: NetName=GND Pin=DOWN2-G2
+Added Pin To Net: NetName=VDP3 Pin=DOWN3-1
+Added Pin To Net: NetName=DP3_DN Pin=DOWN3-2
+Added Pin To Net: NetName=DP3_DP Pin=DOWN3-3
+Added Pin To Net: NetName=GND Pin=DOWN3-4
+Added Pin To Net: NetName=DP3_RXN Pin=DOWN3-5
+Added Pin To Net: NetName=DP3_RXP Pin=DOWN3-6
+Added Pin To Net: NetName=GND Pin=DOWN3-7
+Added Pin To Net: NetName=NetC42_2 Pin=DOWN3-8
+Added Pin To Net: NetName=NetC43_2 Pin=DOWN3-9
+Added Pin To Net: NetName=GND Pin=DOWN3-G1
+Added Pin To Net: NetName=GND Pin=DOWN3-G2
+Added Pin To Net: NetName=VDP4 Pin=DOWN4-1
+Added Pin To Net: NetName=DP4_DN Pin=DOWN4-2
+Added Pin To Net: NetName=DP4_DP Pin=DOWN4-3
+Added Pin To Net: NetName=GND Pin=DOWN4-4
+Added Pin To Net: NetName=DP4_RXN Pin=DOWN4-5
+Added Pin To Net: NetName=DP4_RXP Pin=DOWN4-6
+Added Pin To Net: NetName=GND Pin=DOWN4-7
+Added Pin To Net: NetName=NetC44_2 Pin=DOWN4-8
+Added Pin To Net: NetName=NetC45_2 Pin=DOWN4-9
+Added Pin To Net: NetName=GND Pin=DOWN4-G1
+Added Pin To Net: NetName=GND Pin=DOWN4-G2
+Added Member To Class: ClassName=GL3520 4 Ports Member=Component DOWN1 USB3-A Device
+Added Member To Class: ClassName=GL3520 4 Ports Member=Component DOWN2 USB3-A Device
+Added Member To Class: ClassName=GL3520 4 Ports Member=Component DOWN3 USB3-A Device
+Added Member To Class: ClassName=GL3520 4 Ports Member=Component DOWN4 USB3-A Device
+Added Room: Name=GL3520 4 Ports

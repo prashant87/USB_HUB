@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\xiaohui\Desktop\USB_HUB\GL3520\GL3520 4 Ports - Simplified version\GL3520 4 Ports.PcbDoc
+Date         : 2020/8/29
+Time         : 19:05:02
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 306
+    Connections routed, 306
+    Connections remaining, 0
+count : 4

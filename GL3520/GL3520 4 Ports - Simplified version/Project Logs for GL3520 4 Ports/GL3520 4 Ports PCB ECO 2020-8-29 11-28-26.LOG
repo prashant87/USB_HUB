@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DP4_TXP Pin=U6-39
+Removed Pin From Net: NetName=DP4_RXN Pin=U6-41
+Removed Pin From Net: NetName=DP4_RXP Pin=U6-42
+Added Pin To Net: NetName=DP4_TXN Pin=U6-39
+Added Pin To Net: NetName=DP4_RXP Pin=U6-41
+Added Pin To Net: NetName=DP4_RXN Pin=U6-42

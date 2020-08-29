@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VD12 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=VD33 Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=VD33 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=VD33 Pin=C19-2
+Removed Member From Class: ClassName=GL3520 4 Ports Member=C10
+Added Member To Class: ClassName=GL3520 4 Ports Member=Component C15 10uF

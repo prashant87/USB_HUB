@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=DOWN1 Old Footprint=USB3.0-1 New Footprint=USB3.0-1 - duplicate
+Change Component Footprint: Designator=DOWN2 Old Footprint=USB3.0-1 New Footprint=USB3.0-1 - duplicate
+Change Component Footprint: Designator=DOWN3 Old Footprint=USB3.0-1 New Footprint=USB3.0-1 - duplicate
+Change Component Footprint: Designator=DOWN4 Old Footprint=USB3.0-1 New Footprint=USB3.0-1 - duplicate
+Added Pin To Net: NetName=GND Pin=DOWN1-G1
+Added Pin To Net: NetName=GND Pin=DOWN1-G2
+Added Pin To Net: NetName=GND Pin=DOWN2-G1
+Added Pin To Net: NetName=GND Pin=DOWN2-G2
+Added Pin To Net: NetName=GND Pin=DOWN3-G1
+Added Pin To Net: NetName=GND Pin=DOWN3-G2
+Added Pin To Net: NetName=GND Pin=DOWN4-G1
+Added Pin To Net: NetName=GND Pin=DOWN4-G2
